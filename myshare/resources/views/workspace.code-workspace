@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "name": "COACHTECH",
+            "path": "../../../COACHTECH"
+        },
+        {
+            "name": "share",
+            "path": "../../../share"
+        },
+        {
+            "name": "share-api",
+            "path": "../../../share-api"
+        },
+        {
+            "name": "saver",
+            "path": "../../../saver"
+        },
+        {
+            "name": "saver-api",
+            "path": "../.."
+        },
+        {
+            "path": "../../../../BulletinBoard/BulletinBoard"
+        }
+    ],
+    "settings": {}
+}
